@@ -1,0 +1,16 @@
+### LA CLASE PASADA ###
+
+Archivo requirements.txt
+
+Configuramos docker:
+    Dockerfile
+    docker-compose.yml
+
+    "django-admin.py startproject app"
+
+Configuramos travis con github.
+
+Escribimos pruebas basados en TDD
+
+### #### #### ### ### ###
+
